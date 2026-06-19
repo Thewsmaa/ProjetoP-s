@@ -49,8 +49,6 @@ docs/
 
 Modelo desenvolvido utilizando arquitetura dimensional com tabela fato e dimensões auxiliares.
 
-![Modelagem Estrela](docs/modelagem_estrela.png)
-
 ---
 
 ## Dashboard Executivo
@@ -63,9 +61,7 @@ Indicadores:
 - Pedidos Totais
 - Evolução Mensal
 - Top Categorias
-
-![Página 1](images/pagina1.png)
-
+  
 ---
 
 ### Página 2 — Logística e Operação
@@ -75,8 +71,6 @@ Indicadores:
 - Percentual de Atrasos
 - Frete Médio
 - Impacto do atraso na avaliação
-
-![Página 2](images/pagina2.png)
 
 ---
 
@@ -88,8 +82,6 @@ Indicadores:
 - Categorias com maior satisfação
 - Impacto do prazo de entrega
 
-![Página 3](images/pagina3.png)
-
 ---
 
 ### Página 4 — Sellers e Oportunidades
@@ -99,8 +91,6 @@ Indicadores:
 - Receita Média por Seller
 - Top Sellers
 - Receita por Estado
-
-![Página 4](images/pagina4.png)
 
 ---
 
@@ -127,6 +117,6 @@ Arquivos complementares:
 
 ## Autor
 
-Mathews Souza
+Mathews Souza Santos
 
 Projeto acadêmico — Pós-Graduação em Análise de Dados
